@@ -1,4 +1,4 @@
-//Question 5:
+//Making a Dianmond
 #include <iostream>
 using namespace std;
 int main() {
