@@ -1,4 +1,4 @@
-//Question:1
+//Taking Different Inputs From user
 #include<iostream>
 using namespace std;
 int main(){
