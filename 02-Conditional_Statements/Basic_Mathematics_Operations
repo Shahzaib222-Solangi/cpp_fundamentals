@@ -1,0 +1,16 @@
+//Basic Mathematics Operations on two operands
+
+3 #include<iostream>
+4 using namespace std;
+5 int main(){
+6 int a,b;
+7 cout<<"Enter value of a : ";
+8 cin>>a;
+9 cout<<"Enter value of b : ";
+10 cin>>b;
+11 cout<<"Addition of "<<a<<" and "<<b<<" is : "<<a+b<<endl;
+12 cout<<"Subtraction of "<<a<<" and "<<b<<" is : "<<a-b<<endl;
+13 cout<<"Multiplication of "<<a<<" and "<<b<<" is : "<<a*b<<endl;
+14 cout<<"Division of "<<a<<" and "<<b<<" is : "<<a/b;
+15 return 0;
+16 }
